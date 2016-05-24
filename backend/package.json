@@ -1,0 +1,14 @@
+{
+    "name": "demo-backend",
+    "version": "0.0.1",
+    "description": "",
+    "dependencies": {
+    },
+    "devDependencies": {
+        "gulp": "~3.9.1",
+        "gulp-shell": "~0.5.2",
+        "jshint": "~2.9.1",
+        "gulp-jshint": "~2.0.0",
+        "jshint-stylish": "~2.1.0"
+    }
+}
